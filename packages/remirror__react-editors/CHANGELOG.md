@@ -1,5 +1,16 @@
 # @remirror/react-editors
 
+## 0.1.9
+
+> 2021-09-09
+
+### Patch Changes
+
+- Add a white border to the handle to make it more recognizable.
+
+- Updated dependencies []:
+  - remirror@1.0.23
+
 ## 0.1.8
 
 > 2021-09-07

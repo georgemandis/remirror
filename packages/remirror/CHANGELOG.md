@@ -1,5 +1,18 @@
 # remirror
 
+## 1.0.23
+
+> 2021-09-09
+
+### Patch Changes
+
+- Add a white border to the handle to make it more recognizable.
+
+- Updated dependencies []:
+  - @remirror/extension-embed@1.1.5
+  - @remirror/extension-image@1.0.8
+  - @remirror/preset-wysiwyg@1.1.1
+
 ## 1.0.22
 
 > 2021-09-07
